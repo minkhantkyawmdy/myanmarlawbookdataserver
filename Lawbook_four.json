@@ -3,46 +3,12 @@
   "message":"Data fetched successfully",
   "data":
     [
-        { 
-            "id":"1",
-            "bookname":"တရားစြဲဆိုခြင့္ျပဳမိန္႔",
-            "authorname":"ဦးေမာင္ေမာင္လွေသာင္း",
-            "booksize":"70.87 MB",      "coverlink":"https://1.bp.blogspot.com/-RJ02Ob_-V1Y/XkvutEwowSI/AAAAAAAAAGk/7hh-UcDMPk8QVQBcn5wFaTE_lk7-D3-KACLcBGAsYHQ/s1600/IMG_20200216_222849.jpg",
-            "booklink":"https://drive.google.com/open?id=102bk3tfjQXczbBM7BPUzlZk2bQWnx_lr"
-        } ,
-       { 
-            "id":"2",
-            "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ပထမတြဲ)",
-            "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"20 MB ",     
-            "coverlink":"https://1.bp.blogspot.com/-87_Jn6TBNMY/XkvwZ9qH-pI/AAAAAAAAAGw/P7vECjMgszMEHy2M31844d163GDbRbFRQCLcBGAsYHQ/s320/IMG_20200214_232422.jpg",
-            "booklink":"https://drive.google.com/open?id=1dFR1GnP0Vow9yeQOXzh5_faU8LzBVCem"
-},
-      { 
-            "id":"3",
-            "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ဒုတိယတြဲ)",
-            "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"67 MB ",     
-            "coverlink":"https://1.bp.blogspot.com/-RTPfc4gZP0E/XkvxfKx7WHI/AAAAAAAAAG4/jeJDd_7wJ4ovzYL06_uEzR91eLXEBLAkACLcBGAsYHQ/s320/IMG_20200214_233426.jpg",
-            "booklink":"https://drive.google.com/open?id=1WXYUW1doiOQ5SRHN_GY4InGwOckVTF8t"
-},
-      { 
-            "id":"4",
-            "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (တတိယတြဲ)",
-            "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"64 MB ",     
-            "coverlink":"https://1.bp.blogspot.com/-curoR9H1P0M/XkvyHXSqI3I/AAAAAAAAAHA/fAfPLvmmJTovSMk91HfW2_2D0yYdHhmsACLcBGAsYHQ/s320/IMG_20200215_220401.jpg",
-            "booklink":"https://drive.google.com/open?id=1v7SZytrhNNiDyqighxf83ECTv-Acsz1Q"
-},
-      { 
-            "id":"5",
-            "bookname":"ကိုယ္နဲ႔ပစၥည္းကို ကာကြယ္ခုခံပိုင္ခြင့္",
-            "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"2 MB ",     
-            "coverlink":"https://1.bp.blogspot.com/-GebbCIvP4ZI/XkvytxH4KUI/AAAAAAAAAHM/wdWcK-bWdBwd6d8Fa1NTH0mwMteWEV9PwCLcBGAsYHQ/s320/IMG_20200216_222159.jpg",
-            "booklink":"https://drive.google.com/open?id=1---TSVtugSv8MxnCiioaJAEPUv3gnuGK"
-}
-      
+        { "id":"1",
+         "bookname":"၁၉၄၈ ခုႏွစ္ တရားစီရင္ထုံး", 
+         "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
+         "booksize":"90.98 MB ", 
+         "coverlink":"https://1.bp.blogspot.com/-auwZQDAMgek/XmXxTkkb4wI/AAAAAAAAAJg/yId8OACvKjMZUhlltpAuOtJYl2942WaMQCLcBGAsYHQ/s1600/1948.jpg",
+         "booklink":"https://drive.google.com/file/d/1-stePWN_nJ58mXNh48SNk5BF8xQUHvq7/view?usp=drivesdk"}
     ]
 
 }
