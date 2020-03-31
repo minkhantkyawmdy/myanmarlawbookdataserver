@@ -66,13 +66,34 @@
        "booklink":"https://drive.google.com/open?id=112gzeqWdz7S-181gXBJ-kOE-WU2JRDoX"
       },
 
- { "id":"9", 
+
+ { 
+       "id":"9", 
+       
        "bookname":"၁၉၅၆ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
+      
        "booksize":"34.0 MB ", 
+      
        "coverlink":"https://1.bp.blogspot.com/-cYzeC9hWeoI/XoKuprDbU9I/AAAAAAAAAL8/niaQkYWfsLs7CKWQas5Um5CSn0ct7_e0wCLcBGAsYHQ/s1600/1956.jpg",
+       
        "booklink":"https://drive.google.com/file/d/11Fgbcv66iCTomfOy1b0a4DGCNOH4NnM8/view?usp=drivesdk"
+    
+     },
+
+
+     { 
+       "id":"10", 
+       "bookname":"၁၉၅၇ ခုႏွစ္ တရားစီရင္ထုံး",
+       "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
+       "booksize":"21.5 MB ", 
+       
+       "coverlink":"https://1.bp.blogspot.com/-E3Tf4HtLdWI/XoKvolSS-TI/AAAAAAAAAME/qpYzMz0WpfQl34KRJJh0FSU2CbSov6EJgCLcBGAsYHQ/s1600/1957.jpg",
+       
+       "booklink":"https://drive.google.com/file/d/11GGu5Es_ajvq2Cgm6IfI1-qJ07Qf3-rD/view?usp=drivesdk"
+
       }
+
 
     ]
 
