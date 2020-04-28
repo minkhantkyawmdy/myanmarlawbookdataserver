@@ -7,6 +7,7 @@
             "id":"1",
             "bookname":"တရားစြဲဆိုခြင့္ျပဳမိန္႔",
             "authorname":"ဦးေမာင္ေမာင္လွေသာင္း",
+             "isbookmark": "0",
             "booksize":"70.87 MB",      "coverlink":"https://1.bp.blogspot.com/-RJ02Ob_-V1Y/XkvutEwowSI/AAAAAAAAAGk/7hh-UcDMPk8QVQBcn5wFaTE_lk7-D3-KACLcBGAsYHQ/s1600/IMG_20200216_222849.jpg",
             "booklink":"https://drive.google.com/open?id=102bk3tfjQXczbBM7BPUzlZk2bQWnx_lr"
         } ,
@@ -14,7 +15,9 @@
             "id":"2",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ပထမတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"19.6 MB ",     
+
+            "booksize":"19.6 MB ",   
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-87_Jn6TBNMY/XkvwZ9qH-pI/AAAAAAAAAGw/P7vECjMgszMEHy2M31844d163GDbRbFRQCLcBGAsYHQ/s320/IMG_20200214_232422.jpg",
             "booklink":"https://drive.google.com/open?id=1dFR1GnP0Vow9yeQOXzh5_faU8LzBVCem"
 },
@@ -22,15 +25,18 @@
             "id":"3",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ဒုတိယတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"67.0 MB ",     
+            "booksize":"67.0 MB ",  
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-RTPfc4gZP0E/XkvxfKx7WHI/AAAAAAAAAG4/jeJDd_7wJ4ovzYL06_uEzR91eLXEBLAkACLcBGAsYHQ/s320/IMG_20200214_233426.jpg",
             "booklink":"https://drive.google.com/open?id=1WXYUW1doiOQ5SRHN_GY4InGwOckVTF8t"
+
 },
       { 
             "id":"4",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (တတိယတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
-            "booksize":"63.6 MB ",     
+            "booksize":"63.6 MB ",  
+               "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-curoR9H1P0M/XkvyHXSqI3I/AAAAAAAAAHA/fAfPLvmmJTovSMk91HfW2_2D0yYdHhmsACLcBGAsYHQ/s320/IMG_20200215_220401.jpg",
             "booklink":"https://drive.google.com/open?id=1v7SZytrhNNiDyqighxf83ECTv-Acsz1Q"
 },
@@ -38,7 +44,8 @@
             "id":"5",
             "bookname":"ကိုယ္နဲ႔ပစၥည္းကို ကာကြယ္ခုခံပိုင္ခြင့္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"1.7 MB ",     
+            "booksize":"1.7 MB ",    
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-GebbCIvP4ZI/XkvytxH4KUI/AAAAAAAAAHM/wdWcK-bWdBwd6d8Fa1NTH0mwMteWEV9PwCLcBGAsYHQ/s320/IMG_20200216_222159.jpg",
             "booklink":"https://drive.google.com/open?id=1---TSVtugSv8MxnCiioaJAEPUv3gnuGK"
 },
@@ -48,7 +55,9 @@
             "id":"6",
             "bookname":"ျပစ္မႈဆိုင္ရာဥပေဒ(ရာဇသတ္ႀကီး) အဘိဓါန္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"13.33 MB ",     
+            "booksize":"13.33 MB ",   
+
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-Zwagn36uyx0/XkvzeX0BBDI/AAAAAAAAAHU/tBRbTm1SqgMin9cRDIdD1lSZi7bmaO2KgCLcBGAsYHQ/s1600/IMG_20200215",
             "booklink":"https://drive.google.com/open?id=1y6a2VsFYuk1KgNSR8gSdg8Tpotu7Fo5J"
 },
@@ -56,7 +65,9 @@
             "id":"7",
             "bookname":"အမႈ႕အခင္းေရွ႕ေနႏွင့္ တရားခြင္ဟာသမ်ား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"415.47 KB ",     
+            "booksize":"415.47 KB ",   
+
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-xjTq-SDR4Ec/Xkv0PdP7U1I/AAAAAAAAAHg/UZXGblnhZlAJJGuQwF5pYAhtzD7G_mtaACLcBGAsYHQ/s1600/IMG_20200214_231431.jpg",
             "booklink":"https://drive.google.com/open?id=1vC1bqHgUwQjCWdU8-A2Vt3mlnuS83GCn"
 },
@@ -64,7 +75,8 @@
             "id":"8",
             "bookname":"မၾကားရာသည္ ေရွ႕ေနေရွ႕ရပ္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"15.8 MB ",     
+            "booksize":"15.8 MB ",   
+              "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-yIXVWDpLprs/Xkv4H7EuCQI/AAAAAAAAAHs/tmDdKIkyviMbYHIr4OmJ_0qcXmgb9CZIwCLcBGAsYHQ/s1600/IMG_20200218_210328.jpg",
             "booklink":"https://drive.google.com/open?id=1g_NRwGezzTOuh9yr_PoWYyKVXVZ_cp99"
 },
@@ -72,7 +84,8 @@
             "id":"9",
             "bookname":"ဥပေဒသမား လက္စြဲစကား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"611.8 KB ",     
+            "booksize":"611.8 KB ",   
+               "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-T_o50gKIG_o/Xkv5oQxacJI/AAAAAAAAAH4/dQRaYFbjzcYwsD4FKvkSBiVP75nJmbmNwCLcBGAsYHQ/s1600/IMG_20200218_211544.jpg",
             "booklink":"https://drive.google.com/open?id=1TpKeQ7iFCAJwcxC0YUYWxaUyPhvL_Cm1"
 },
@@ -80,7 +93,9 @@
             "id":"10",
             "bookname":"ဥပေဒေရးရာေ၀ါဟာရ အဘိဓါန္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"11.5 MB ",     
+            "booksize":"11.5 MB ",  
+            "isbookmark": "0",
+   
             "coverlink":"https://1.bp.blogspot.com/-9CqNOXFKlxo/Xkv_lRpHrqI/AAAAAAAAAIE/3MLPsE5rNjkOg_pi3IOf5JkxZeDMXF9kwCLcBGAsYHQ/s1600/IMG_20200218_214412.jpg",
             "booklink":"https://drive.google.com/open?id=1uFwnpxiOQlFWqp6qIP5kQOTgj6EQkFH_"
 },
@@ -88,7 +103,9 @@
             "id":"11",
             "bookname":"ဖြဲ႕စည္းပုံအေျခခံဥပေဒ (၂၀၀၈)",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
-            "booksize":"855.0 KB ",     
+            "booksize":"855.0 KB ",  
+
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-8gxaIbxoLRY/XlKmRAMYUvI/AAAAAAAAAIQ/xMerNeAB4mMCbwAq9N5Y25Q129U8W8yowCLcBGAsYHQ/s1600/IMG_20200223_224951.jpg",
             "booklink":"https://drive.google.com/open?id=1mn4tbD8GYafH7qcK9GrWgB0w3fmzD5bf"
 },
@@ -96,7 +113,8 @@
             "id":"12",
             "bookname":"အဂၤလိပ္-ျမန္မာ ဥပေဒေ၀ါဟာရ အဘိဓါန္",
             "authorname":"ဦးကိုကို (တရားလႊတ္ေတာ္ေရွ႕ေန)",
-            "booksize":"21.7 MB ",     
+            "booksize":"21.7 MB ",
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-sDC799-XKJ8/XlKnXpTu35I/AAAAAAAAAIY/lleOP2wNFsMseOb1W-3K28jPeOvO5Ny3gCLcBGAsYHQ/s1600/IMG_20200223_225426.jpg",
             "booklink":"https://drive.google.com/open?id=1gJFkFw1oxGv1nR2U9lS_LwLf5xiKGXBn"
 },
@@ -104,7 +122,8 @@
             "id":"13",
             "bookname":"အတိုင္ပင္ခံ ေရွ႕ေန (၂)",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"3.1 MB ",     
+            "booksize":"3.1 MB ",   
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-yJC2PkiHxPc/XlKofglM-gI/AAAAAAAAAIg/9Rca09Jy0mQhjeA5ISNwP3XbssV9dF1NQCLcBGAsYHQ/s1600/IMG_20200223_225922.jpg",
             "booklink":"https://drive.google.com/open?id=1lIObE5BAWR_V-bmPI5r0BBS5KbTNMthO"
 },
@@ -112,7 +131,8 @@
             "id":"14",
             "bookname":"အမႈသည္မ်ားလက္စြဲ",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"408.8 KB ",     
+            "booksize":"408.8 KB ", 
+             "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-3m9vMebBZnA/XlKpUGTfY-I/AAAAAAAAAIo/Bs1sD9jgS54hMr333IPIfJYmTnDI_FdOQCLcBGAsYHQ/s1600/IMG_20200223_230215.jpg",
             "booklink":"https://drive.google.com/open?id=1TouTRI85fmp6DCPMW5WstyQg_tLycAA-"
 },
@@ -120,7 +140,9 @@
             "id":"15",
             "bookname":"သက္ေသခံ ဥပေဒ အဖြင့္က်မ္း (အပိုင္း ၁)",
             "authorname":"ဦးဘိုးသာ",
-            "booksize":"20.4 MB ",     
+            "booksize":"20.4 MB ",
+
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-Sy0W6AqVlxY/Xln_XghnpNI/AAAAAAAAAJA/riZT0QA4jJs-X1xNwaWgsDTDSVTds54TQCLcBGAsYHQ/s1600/FB_IMG_1582868173585.jpg",
             "booklink":"https://drive.google.com/open?id=1_U6iJlBj20-zfsx_D7KWqoTeqCTWoMWo"
 },
@@ -128,7 +150,9 @@
             "id":"16",
             "bookname":"သက္ေသခံ ဥပေဒ အဖြင့္က်မ္း (အပိုင္း ၂)",
             "authorname":"ဦးဘိုးသာ",
-            "booksize":"28.4 MB ",     
+            "booksize":"28.4 MB ", 
+
+                "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-Sy0W6AqVlxY/Xln_XghnpNI/AAAAAAAAAJA/riZT0QA4jJs-X1xNwaWgsDTDSVTds54TQCLcBGAsYHQ/s1600/FB_IMG_1582868173585.jpg",
             "booklink":"https://drive.google.com/open?id=1HAKyTECfYwZmiEsBZ4WtrYEVFf88sPuM"
 },
@@ -136,7 +160,9 @@
             "id":"17",
             "bookname":"ဥပေဒ (၁၀၀) ပုဒ္မ(၁၀၀၀) ေရွာင္ဖို႔သိဖို႔ေဆာင္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"15.8 MB ",     
+            "booksize":"15.8 MB ",  
+
+               "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-kL_tWIb9n7Q/XlKqWTFtW9I/AAAAAAAAAI0/K_Jg6nTTo2o19HdlEAwDlAzlwKAoEYjlQCLcBGAsYHQ/s1600/IMG_20200223_230714.jpg",
             "booklink":"https://drive.google.com/file/d/1aC4K-F3Lx2jrHgDFCcJ4PH6HPAud3thW/view?usp=drivesdk"
 },
@@ -146,7 +172,8 @@
             "id":"18",
             "bookname":"ျမန္မာႏိုင္ငံ ရာဇသတ္ႀကီး",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
-            "booksize":"28.6 MB ",     
+            "booksize":"28.6 MB ", 
+                "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-H2vIoN8muOE/XoKnKYdTMSI/AAAAAAAAALM/hjNZUga6GcU3OZo0aO7ZEBE1DwYc1zbzQCLcBGAsYHQ/s1600/IMG_20200331_083934.jpg",
             "booklink":"https://drive.google.com/file/d/1PGOS1HrmalxGzgvyBXaTllSSIkLL6YO0/view?usp=drivesdk"
 },
@@ -157,7 +184,8 @@
             "id":"19",
             "bookname":"ျပစ္မႈဆိုင္ရာက်င့္ထုံးဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
-            "booksize":"64.8 MB ",     
+            "booksize":"64.8 MB ",  
+             "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-dBsakOQzESU/XoKo9aQp1XI/AAAAAAAAALY/MFHm37kj2P8vMMg2MMX5w83UemA9dwD8wCLcBGAsYHQ/s1600/IMG_20200331_084844.jpg",
             "booklink":"https://drive.google.com/file/d/1gNtpUnlZjIypPSrXuUxsCn6XLJfBQvoG/view?usp=drivesdk"
 },
@@ -167,7 +195,8 @@
             "id":"20",
             "bookname":"အိမ္ၿခံေျမဝယ္ေရာင္းငွားဥပေဒ",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"1.3 MB ",     
+            "booksize":"1.3 MB ",    
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-TgNUlXtJoH8/XoKqvPO2WiI/AAAAAAAAALk/irc5Dm69qeMkm5b_L70s-fJjaFmT-UJDwCLcBGAsYHQ/s1600/IMG_20200331_085742.jpg",
             "booklink":"https://drive.google.com/file/d/12NV1pkJ5tfcJBVWf_LC58kU4OKAyjaTc/view?usp=drivesdk"
 },
@@ -177,7 +206,8 @@
             "id":"21",
             "bookname":"တရားခြင္ေရာက္ မႈခင္းစစ္ေဆးမႈပညာ",
             "authorname":"ဦးေအာင္သန္းထြန္း",
-            "booksize":"12.6 MB ",     
+            "booksize":"12.6 MB ", 
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-1PSDCN3im38/XoKsglJyvjI/AAAAAAAAALw/39kg-Ha-RHwfkPcyGR8ecAWgYY2g7B9fACLcBGAsYHQ/s1600/IMG_20200331_090513.jpg",
             "booklink":"https://drive.google.com/file/d/12Uw64ob5KHy9tGZ8vo9GETP-Blw6OEmL/view?usp=drivesdk"
 },
@@ -188,7 +218,8 @@
             "id":"22",
             "bookname":"သက္ေသခံဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံတရာရုံးခ်ဳပ္",
-            "booksize":"21.7 MB ",     
+            "booksize":"21.7 MB ", 
+            "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-1c8eFZyUD8Y/XqeYT3SDCUI/AAAAAAAAARc/5d7ujxKlIJMBBR-cm9wSYCz7Did8DItPACLcBGAsYHQ/s1600/IMG_20200428_090936.jpg",
             "booklink":"https://drive.google.com/file/d/1wVDY4KTgg2i6rNzHLtZCo2RoA4yAN5wq/view?usp=sharing"
 },
@@ -198,7 +229,8 @@
             "id":"23",
             "bookname":"ဖြဲ႕စည္းပုံအေျခခံဥပေဒေဝါဟာရအဘိဓါန္",
             "authorname":"ေနျခည္ေဇယ်",
-            "booksize":"3.4 MB ",     
+            "booksize":"3.4 MB ",   
+              "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-fbsUIMimKDU/XqeZWLx_XJI/AAAAAAAAARk/2HR6FDXgRuolavF8s0c3A4zX4BsBrKRCgCLcBGAsYHQ/s1600/IMG_20200428_091535.jpg",
             "booklink":"https://drive.google.com/file/d/1fHTnQRhYDcQmJL7vF5uZx1jAqqtTQrPH/view?usp=sharing"
 },
@@ -209,7 +241,8 @@
             "id":"24",
             "bookname":"အိမ္ၿခံေျမႏွင့္အျခားအေရးႀကီးစာခ်ဳပ္မ်ား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
-            "booksize":"11.3 MB ",     
+            "booksize":"11.3 MB ",   
+               "isbookmark": "0",
             "coverlink":"https://1.bp.blogspot.com/-5Y7Kp5r7N7w/Xqea3mDFnZI/AAAAAAAAARw/i5XDUnBP6SUT_TVYzfaBG_2Zr5_7OtJbwCLcBGAsYHQ/s1600/IMG_20200428_092215.jpg",
             "booklink":"https://drive.google.com/file/d/1fOcOuoQ1X46k1fJ3NAsyqdfen3PuEKjR/view?usp=sharing"
 }
