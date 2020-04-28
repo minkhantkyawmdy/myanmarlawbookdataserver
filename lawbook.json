@@ -180,8 +180,28 @@
             "booksize":"12.6 MB ",     
             "coverlink":"https://1.bp.blogspot.com/-1PSDCN3im38/XoKsglJyvjI/AAAAAAAAALw/39kg-Ha-RHwfkPcyGR8ecAWgYY2g7B9fACLcBGAsYHQ/s1600/IMG_20200331_090513.jpg",
             "booklink":"https://drive.google.com/file/d/12Uw64ob5KHy9tGZ8vo9GETP-Blw6OEmL/view?usp=drivesdk"
-}
+},
 
+
+
+{ 
+            "id":"22",
+            "bookname":"သက္ေသခံဥပေဒ",
+            "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံတရာရုံးခ်ဳပ္",
+            "booksize":"21.7 MB ",     
+            "coverlink":"https://1.bp.blogspot.com/-1c8eFZyUD8Y/XqeYT3SDCUI/AAAAAAAAARc/5d7ujxKlIJMBBR-cm9wSYCz7Did8DItPACLcBGAsYHQ/s1600/IMG_20200428_090936.jpg",
+            "booklink":"https://drive.google.com/file/d/1wVDY4KTgg2i6rNzHLtZCo2RoA4yAN5wq/view?usp=sharing"
+},
+
+
+{ 
+            "id":"23",
+            "bookname":"ဖြဲ႕စည္းပုံအေျခခံဥပေဒေဝါဟာရအဘိဓါန္",
+            "authorname":"ေနျခည္ေဇယ်",
+            "booksize":"3.4 MB ",     
+            "coverlink":"https://1.bp.blogspot.com/-fbsUIMimKDU/XqeZWLx_XJI/AAAAAAAAARk/2HR6FDXgRuolavF8s0c3A4zX4BsBrKRCgCLcBGAsYHQ/s1600/IMG_20200428_091535.jpg",
+            "booklink":"https://drive.google.com/file/d/1fHTnQRhYDcQmJL7vF5uZx1jAqqtTQrPH/view?usp=sharing"
+}
 
        
     ]
