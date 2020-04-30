@@ -5,6 +5,7 @@
   "data":
     [
         { "id":"1",
+         "category":"2",
          "bookname":"ကာကြယ္ေရးစစ္ဆင္မႈ အထူးစီမံခ်က္ အက္ဥပေဒ ၁၉၅၆ ခုႏွစ္", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"5.3 MB ", 
@@ -15,6 +16,7 @@
 
 
         { "id":"2",
+         "category":"2",
          "bookname":"ကိုးကြယ္ရာဘာသာကူးေျပာင္းျခင္းဆိုင္ရာ ဥပေဒၾကမ္း", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"9.4 MB ", 
@@ -23,6 +25,7 @@
          "booklink":"https://drive.google.com/file/d/1ku_I40vWbhH_Yh7sScEqovac0kGnme_n/view?usp=sharing"},
 
         { "id":"3",
+         "category":"2",
          "bookname":"ကိုယ္ပိုင္ေက်ာင္းမွတ္ပုံတင္နည္းဥပေဒ", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"2.3 MB ", 
@@ -32,6 +35,7 @@
          "booklink":"https://drive.google.com/file/d/13Ubwt3BvinZoNQ36GwBLcCE_2iUKycAa/view?usp=sharing"},
         
          { "id":"4",
+          "category":"2",
          "bookname":"ကုန္သြယ္လုပ္ငန္းခြန္ ဥပေဒ", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"179.0 KB ", 
@@ -40,6 +44,7 @@
          "booklink":"https://drive.google.com/file/d/1eBlvvghbsFIhFHrSHRtg0mlh-sXjzzwy/view?usp=sharing"},
          
           { "id":"5",
+           "category":"2",
          "bookname":"ကုန္သြယ္လုပ္ငန္းခြန္ စည္းမ်ဥ္းမ်ားကို ျပင္ဆင္သည့္ စည္းမ်ဥ္းမ်ား", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"1.2 MB ", 
