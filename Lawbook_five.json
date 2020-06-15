@@ -5,6 +5,7 @@
     [
         { "id":"1",
          "category":"5",
+         "download":"0",
          "bookname":"၁၉၄၈ ခုႏွစ္ တရားစီရင္ထုံး", 
          "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
          "booksize":"90.98 MB ", 
@@ -13,6 +14,7 @@
          "booklink":"https://drive.google.com/file/d/1-stePWN_nJ58mXNh48SNk5BF8xQUHvq7/view?usp=drivesdk"},
       { "id":"2", 
        "category":"5",
+       "download":"0",
        "bookname":"၁၉၄၉ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"40.09 MB ", 
@@ -22,6 +24,7 @@
       },
       { "id":"3", 
        "category":"5",
+       "download":"0",
        "bookname":"၁၉၅၀ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"44.94 MB ", 
@@ -32,6 +35,7 @@
       { 
         "id":"4", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၁ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"44.92 MB ", 
@@ -42,6 +46,7 @@
        { 
         "id":"5", 
        "category":"5",
+         "download":"0",
        "bookname":"၁၉၅၂ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"44.36 MB ", 
@@ -52,6 +57,7 @@
       { 
        "id":"6", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၃ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္",
        "booksize":"23.1 MB ", 
@@ -63,6 +69,7 @@
       {
        "id":"7", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၄ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"19.6 MB ", 
@@ -74,6 +81,7 @@
       {
        "id":"8", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၅ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"21.7 MB ", 
@@ -84,6 +92,7 @@
       { 
        "id":"9", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၆ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"34.0 MB ", 
@@ -96,6 +105,7 @@
      { 
        "id":"10", 
        "category":"5",
+       "download":"0",
        "bookname":"၁၉၅၇ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"21.5 MB ", 
@@ -108,6 +118,7 @@
       { 
        "id":"11", 
        "category":"5",
+        "download":"0",
        "bookname":"၁၉၅၈ ခုႏွစ္ တရားစီရင္ထုံး",
      
         "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
@@ -125,6 +136,7 @@
       { 
        "id":"12", 
        "category":"5",
+        "download":"0",
      
        "bookname":"၁၉၅၉ ခုႏွစ္ တရားစီရင္ထုံး",
      
@@ -144,7 +156,7 @@
  { 
        "id":"13", 
        "category":"5",
-   
+        "download":"0",
        "bookname":"၁၉၆၀ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"32.1 MB ", 
@@ -156,7 +168,7 @@
  { 
        "id":"14", 
        "category":"5",
-   
+   "download":"0",
        "bookname":"၁၉၆၁ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"28.0 MB ", 
@@ -168,7 +180,7 @@
  { 
        "id":"15", 
        "category":"5",
-   
+   "download":"0",
        "bookname":"၁၉၆၂ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"33.1 MB ", 
@@ -181,7 +193,7 @@
  { 
        "id":"16", 
        "category":"5",
-   
+   "download":"0",
        "bookname":"၁၉၆၃ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"44.0 MB ", 
@@ -196,7 +208,7 @@
  { 
        "id":"17", 
        "category":"5",
-   
+   "download":"0",
        "bookname":"၁၉၆၄ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"48.4 MB ", 
@@ -209,7 +221,7 @@
  { 
        "id":"18", 
        "category":"5",
-   
+   "download":"0",
        "bookname":"၁၉၆၅ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"48.1 MB ", 
@@ -223,6 +235,7 @@
  { 
        "id":"19", 
        "category":"5",
+   "download":"0",
        "bookname":"၁၉၆၆ ခုႏွစ္ တရားစီရင္ထုံး",
        "authorname":"ျပည္ေထာင္စု ျမန္မာႏိုင္ငံေတာ္", 
        "booksize":"52.9 MB ", 
