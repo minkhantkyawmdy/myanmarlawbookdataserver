@@ -6,6 +6,7 @@
         { 
             "id":"1",
             "category":"1",
+            "download":"0",
             "bookname":"တရားစြဲဆိုခြင့္ျပဳမိန္႔",
             "authorname":"ဦးေမာင္ေမာင္လွေသာင္း",
              "isbookmark": "0",
@@ -15,6 +16,7 @@
        { 
             "id":"2",
          "category":"1",
+         "download":"0",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ပထမတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
 
@@ -26,6 +28,7 @@
       { 
             "id":"3",
         "category":"1",
+        "download":"0",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (ဒုတိယတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
             "booksize":"67.0 MB ",  
@@ -37,6 +40,7 @@
       { 
             "id":"4",
         "category":"1",
+        "download":"0",
             "bookname":"ျပစ္မႈဆိုင္ရာ အထူးဥပေဒမ်ား အသုံးခ်လက္စြဲ (တတိယတြဲ)",
             "authorname":"ဦးေက်ာ္စိန္",
             "booksize":"63.6 MB ",  
@@ -47,6 +51,7 @@
       { 
             "id":"5",
         "category":"1",
+        "download":"0",
             "bookname":"ကိုယ္နဲ႔ပစၥည္းကို ကာကြယ္ခုခံပိုင္ခြင့္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"1.7 MB ",    
@@ -59,6 +64,7 @@
       { 
             "id":"6",
         "category":"1",
+        "download":"0",
             "bookname":"ျပစ္မႈဆိုင္ရာဥပေဒ(ရာဇသတ္ႀကီး) အဘိဓါန္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"13.33 MB ",   
@@ -70,6 +76,7 @@
       { 
             "id":"7",
         "category":"1",
+        "download":"0",
             "bookname":"အမႈ႕အခင္းေရွ႕ေနႏွင့္ တရားခြင္ဟာသမ်ား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"415.47 KB ",   
@@ -81,6 +88,7 @@
       { 
             "id":"8",
         "category":"1",
+        "download":"0",
             "bookname":"မၾကားရာသည္ ေရွ႕ေနေရွ႕ရပ္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"15.8 MB ",   
@@ -91,6 +99,7 @@
       { 
             "id":"9",
         "category":"1",
+        "download":"0",
             "bookname":"ဥပေဒသမား လက္စြဲစကား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"611.8 KB ",   
@@ -101,6 +110,7 @@
       { 
             "id":"10",
         "category":"1",
+        "download":"0",
             "bookname":"ဥပေဒေရးရာေ၀ါဟာရ အဘိဓါန္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"11.5 MB ",  
@@ -112,6 +122,7 @@
         { 
             "id":"11",
           "category":"1",
+          "download":"0",
             "bookname":"ဖြဲ႕စည္းပုံအေျခခံဥပေဒ (၂၀၀၈)",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
             "booksize":"855.0 KB ",  
@@ -123,6 +134,7 @@
       { 
             "id":"12",
         "category":"1",
+        "download":"0",
             "bookname":"အဂၤလိပ္-ျမန္မာ ဥပေဒေ၀ါဟာရ အဘိဓါန္",
             "authorname":"ဦးကိုကို (တရားလႊတ္ေတာ္ေရွ႕ေန)",
             "booksize":"21.7 MB ",
@@ -133,6 +145,7 @@
         { 
             "id":"13",
           "category":"1",
+          "download":"0",
             "bookname":"အတိုင္ပင္ခံ ေရွ႕ေန (၂)",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"3.1 MB ",   
@@ -143,6 +156,7 @@
        { 
             "id":"14",
          "category":"1",
+         "download":"0",
             "bookname":"အမႈသည္မ်ားလက္စြဲ",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"408.8 KB ", 
@@ -153,6 +167,7 @@
        { 
             "id":"15",
          "category":"1",
+         "download":"0",
             "bookname":"သက္ေသခံ ဥပေဒ အဖြင့္က်မ္း (အပိုင္း ၁)",
             "authorname":"ဦးဘိုးသာ",
             "booksize":"20.4 MB ",
@@ -164,6 +179,7 @@
        { 
             "id":"16",
          "category":"1",
+         "download":"0",
             "bookname":"သက္ေသခံ ဥပေဒ အဖြင့္က်မ္း (အပိုင္း ၂)",
             "authorname":"ဦးဘိုးသာ",
             "booksize":"28.4 MB ", 
@@ -175,7 +191,7 @@
 { 
             "id":"17",
             "category":"1",
- 
+            "download":"0",
             "bookname":"ဥပေဒ (၁၀၀) ပုဒ္မ(၁၀၀၀) ေရွာင္ဖို႔သိဖို႔ေဆာင္",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"15.8 MB ",  
@@ -189,6 +205,7 @@
 { 
             "id":"18",
             "category":"1",
+            "download":"0",
             "bookname":"ျမန္မာႏိုင္ငံ ရာဇသတ္ႀကီး",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
             "booksize":"28.6 MB ", 
@@ -202,6 +219,7 @@
 { 
             "id":"19",
             "category":"1",
+            "download":"0",
             "bookname":"ျပစ္မႈဆိုင္ရာက်င့္ထုံးဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံေတာ္",
             "booksize":"64.8 MB ",  
@@ -214,6 +232,7 @@
 { 
             "id":"20",
             "category":"1",
+            "download":"0",
             "bookname":"အိမ္ၿခံေျမဝယ္ေရာင္းငွားဥပေဒ",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"1.3 MB ",    
@@ -226,6 +245,7 @@
 { 
             "id":"21",
             "category":"1",
+            "download":"0",
             "bookname":"တရားခြင္ေရာက္ မႈခင္းစစ္ေဆးမႈပညာ",
             "authorname":"ဦးေအာင္သန္းထြန္း",
             "booksize":"12.6 MB ", 
@@ -239,6 +259,7 @@
 { 
             "id":"22",
             "category":"1",
+            "download":"0",
             "bookname":"သက္ေသခံဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံတရာရုံးခ်ဳပ္",
             "booksize":"21.7 MB ", 
@@ -251,6 +272,7 @@
 { 
             "id":"23",
             "category":"1",
+            "download":"0",
             "bookname":"ဖြဲ႕စည္းပုံအေျခခံဥပေဒေဝါဟာရအဘိဓါန္",
             "authorname":"ေနျခည္ေဇယ်",
             "booksize":"3.4 MB ",   
@@ -264,6 +286,7 @@
 { 
             "id":"24",
             "category":"1",
+            "download":"0",
             "bookname":"အိမ္ၿခံေျမႏွင့္အျခားအေရးႀကီးစာခ်ဳပ္မ်ား",
             "authorname":"ဦးေက်ာ္ေဇယ်",
             "booksize":"11.3 MB ",   
@@ -275,6 +298,7 @@
 { 
             "id":"25",
            "category":"1",
+            "download":"0",
             "bookname":"ျမန္မာ့ ျပစ္မႈဆိုင္ရာ ခုခံေခ်ပေရးလက္စြဲ",
             "authorname":"Jake Stevens",
             "booksize":"6.95 MB ",     
@@ -286,6 +310,7 @@
 { 
             "id":"26",
             "category":"1",
+            "download":"0",
             "bookname":"အေျခခံဥပေဒခုံရုံး,ဥပေဒ၊နည္းဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံ",
             "booksize":"171.68 KB ",     
@@ -297,6 +322,7 @@
 { 
             "id":"27",
             "category":"1",
+            "download":"0",
             "bookname":"အလုပ္သမားဥပေဒ အေမး (၁၀၀) အေျဖ(၁၀၀)",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံ",
             "booksize":"523.36 KB ",     
@@ -308,6 +334,7 @@
 { 
             "id":"28",
             "category":"1",
+            "download":"0",
             "bookname":"သစ္ေတာဥပေဒ",
             "authorname":"ျပည္ေထာင္စုျမန္မာႏိုင္ငံ",
             "booksize":"266.2 KB ",     
