@@ -1,5 +1,6 @@
 {
-  "latestVersion": "1.0",
-  "latestVersionCode": "1",
+  "version_name": "1.0",
+  "version_code": 1,
+   "message":"",
   "url": "https://github.com/javiersantos/AppUpdater/releases"
 }
